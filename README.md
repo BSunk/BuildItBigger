@@ -1,3 +1,12 @@
+This project is a simple joke telling app. It has a java library that will provide the jokes as well as a android library that has an activity that shows the joke. There is also a google endpoints backend that will get the joke from the java library and feed it to the android library. 
+
+There is also a free flavor and a paid flavor. Free flavor has an ad at the bottom of the screen as well as an interstitial ad. The paid flavor has no ads. 
+
+An android test was implemented to check if the asynctask to the endpoints backend is retrieving a non empty string. 
+
+Finally, there is also a gradle task called 'runTests' that will start the backend server, run the asynctask test, and then stop the server. 
+
+
 # Gradle for Android and Java Final Project
 
 In this project, you will create an app with multiple flavors that uses
