@@ -6,6 +6,17 @@ An android test was implemented to check if the asynctask to the endpoints backe
 
 Finally, there is a gradle task called 'runTests' that will start the backend server, run the asynctask test, and then stop the server. 
 
+## Screenshots
+
+### Free Version (with Ads)
+<img src="/screenshots/Screenshot_20160814-121558.png" alt="image" width="200">
+<img src="/screenshots/Screenshot_20160814-121608.png" alt="image" width="200">
+<img src="/screenshots/Screenshot_20160814-121531.png" alt="image" width="200">
+<img src="/screenshots/Screenshot_20160814-121550.png" alt="image" width="200">
+
+### Paid Version
+<img src="/screenshots/Screenshot_20160814-121619.png" alt="image" width="200">
+
 
 # Gradle for Android and Java Final Project
 
