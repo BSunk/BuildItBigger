@@ -1,3 +1,5 @@
+# Joke Telling App (For Udacity)
+
 This project is a simple joke telling app. It has a java library that will provide the jokes as well as a android library that has an activity that shows the joke. There is also a google endpoints backend that will get the joke from the java library and feed it to the android library. 
 
 There is a free flavor and a paid flavor. Free flavor has an ad at the bottom of the screen as well as an interstitial ad. The paid flavor has no ads. 
